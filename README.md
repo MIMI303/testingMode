@@ -1,0 +1,2 @@
+# testingMode
+Manual software testing 
